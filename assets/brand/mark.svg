@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Goblin Workbench mark</title>
+  <desc id="desc">Angular goblin ears above a sturdy workbench, with two bright eyes.</desc>
+  <polygon fill="#28513b" points="8,12 30,24 36,18 60,18 66,24 88,12 83,46 72,55 72,65 24,65 24,55 13,46"/>
+  <polygon fill="#ddedb6" points="27,34 43,40 39,47 27,42"/>
+  <polygon fill="#ddedb6" points="69,34 53,40 57,47 69,42"/>
+  <rect fill="#28513b" x="12" y="71" width="72" height="8"/>
+  <rect fill="#28513b" x="21" y="79" width="9" height="11"/>
+  <rect fill="#28513b" x="66" y="79" width="9" height="11"/>
+</svg>
